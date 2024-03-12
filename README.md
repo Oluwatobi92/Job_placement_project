@@ -10,6 +10,10 @@ The transition from academia to the workforce is a critical phase for recent Bac
 The dataset was
 ## <p align='left'/> Data transformation/cleaning </p>
 The data was efficiently cleaned and transformed with the power query editor of powerbi. Some of the applied steps includes the following;
-
 - deleted blank spaces
-- replacin
+- replaced null values
+- renamed the 'stream' column to 'discipline'
+- checked for duplicates
+- changed the datatype of the years of experience column from 'TEXT' to 'WHOLE NUMBER'
+- added a conditional column 
+## <div align='center'><img src=

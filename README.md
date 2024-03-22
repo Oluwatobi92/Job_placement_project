@@ -7,7 +7,7 @@ This project aims to analyze the employment outcomes of recent Bachelor's degree
 ## <p align='left'/> Problem statement </p>
 The transition from academia to the workforce is a critical phase for recent Bachelor's degree graduates, yet there is limited understanding of the factors influencing their employment outcomes. This project aims to address this gap by analyzing a dataset of Bachelor's degree graduates in the United States to understand placement rates, salary distributions, and other factors affecting their employment. By identifying patterns and trends in the data, the project seeks to provide insights that can inform decision-making for students, universities, and employers, ultimately improving the employment prospects and career success of Bachelor's degree graduates.
 ## <p align='left'/> Data sourcing </p>
-The dataset was
+The data for this analysis was sourced from online databases containing information on recent Bachelor's degree graduates in the United States.
 ## <p align='left'/> Data transformation/cleaning </p>
 The data was efficiently cleaned and transformed with the power query editor of powerbi. Some of the applied steps includes the following;
 - deleted blank spaces
@@ -17,3 +17,4 @@ The data was efficiently cleaned and transformed with the power query editor of 
 - changed the datatype of the years of experience column from 'TEXT' to 'WHOLE NUMBER'
 - added a conditional column 
 ## <div align='center'><img src=
+

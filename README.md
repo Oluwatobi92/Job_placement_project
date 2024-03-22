@@ -17,4 +17,6 @@ The data was efficiently cleaned and transformed with the power query editor of 
 - changed the datatype of the years of experience column from 'TEXT' to 'WHOLE NUMBER'
 - added a conditional column 
 ## <div align='center'><img src='Images/Image2.JPG'></div>
+## <p align='left'/> Data visualization </p>
+For data visualization, Power BI was utilized to create interactive and visually engaging representations of the analysis findings.
 

@@ -16,5 +16,5 @@ The data was efficiently cleaned and transformed with the power query editor of 
 - checked for duplicates
 - changed the datatype of the years of experience column from 'TEXT' to 'WHOLE NUMBER'
 - added a conditional column 
-## <div align='center'><img src=
+## <div align='center'><img src='Images/Image2.JPG'></div>
 

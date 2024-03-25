@@ -20,7 +20,7 @@ The data was efficiently cleaned and transformed with the power query editor of 
 ## <p align='left'/> Data visualization </p>
 For data visualization, Power BI was utilized to create interactive and visually engaging representations of the analysis findings.
 # <div align='center'><img src='Images/Image3.JPG'></div>
-## <div align='center'/> Data presentation </p>
+## <div align='left'/> Data presentation </p>
 To present my analysis, I have created a video using Loom, a screen recording and video messaging tool to provide a comprehensive overview of the analysis findings of my data. You can view the video presentation [here](insert Loom video link).
 ## <p align='left'/> Insights from data </p>
 - Out of the 700 graduates surveyed, 570 were successfully placed into employment, while 130 graduates did not secure placement, giving a placement rate of 81%.

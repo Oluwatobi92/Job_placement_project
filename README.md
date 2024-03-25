@@ -20,3 +20,6 @@ The data was efficiently cleaned and transformed with the power query editor of 
 ## <p align='left'/> Data visualization </p>
 For data visualization, Power BI was utilized to create interactive and visually engaging representations of the analysis findings.
 # <div align='center'><img src='Images/Image3.JPG'></div>
+## <p align='left'/> Insights from data </p>
+- Out of the 700 graduates surveyed, 570 were successfully placed into employment, while 130 graduates did not secure placement.
+## <p align='left'/> Recommendations </p>
